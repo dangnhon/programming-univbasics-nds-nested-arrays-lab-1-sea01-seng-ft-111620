@@ -48,6 +48,6 @@ def matrix_update(matrix, row, column, new_value)
 
 new_matrix = matrix[row][column].push(new_value)
 
-new_matrix 
+new_matrix
 
 end
