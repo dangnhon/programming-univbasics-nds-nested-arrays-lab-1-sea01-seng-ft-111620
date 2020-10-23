@@ -32,7 +32,7 @@ def sorted_matrix
 produce_storage_room = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE].sort
 
 produce_storage_room
-  
+
 end
 
 def matrix_lookup(matrix, row, column)
